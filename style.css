@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+/* reset */
+body {
+    width : 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+
+/* header */
+header {
+    width: 1200px;
+    background-color: #111;
+}
+.logo {
+    float: left;
+    width: 200px;
+    height: 100px;
+    background-color: #222;
+}
+.menu {
+    float: left;
+    width: 1000px;
+    height: 100px;
+    background-color: #333;
+}
